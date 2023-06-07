@@ -1,0 +1,18 @@
+# editor files
+.idea/
+.vscode/
+
+# Temp files
+tmp/
+temp/
+tmp.*
+temp.*
+*.tmp
+*.temp
+
+# log files
+logs/
+*.logs
+
+# other files
+misc/
